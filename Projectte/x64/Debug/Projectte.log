@@ -1,0 +1,10 @@
+﻿  Projectte.cpp
+C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\assimp\Mesh.h(36,50): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\Projectte.cpp(38,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\Projectte.cpp(39,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\Projectte.cpp(43,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\Projectte.cpp(44,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\Projectte.cpp(45,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\Projectte.cpp(46,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\Projectte.cpp(72,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Projectte.vcxproj -> C:\Users\Руслан\Downloads\lab7\laba7\laba6\Projectte\x64\Debug\Projectte.exe
